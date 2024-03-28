@@ -31,10 +31,3 @@ Contributions are welcome! If you have any ideas for new features, improvements,
 ## Acknowledgements
 - Background music by [Artist Name](link-to-music) (License details, if applicable).
 - Icon credits: [Icon Name](link-to-icon) (License details, if applicable).
-
-## Contact
-
-Have questions or feedback? Feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
-```
-
-Make sure to replace placeholders like `your-username`, `Artist Name`, `link-to-music`, etc., with appropriate information. Additionally, include any necessary files such as `LICENSE`, and provide credits for any assets used in your game.
