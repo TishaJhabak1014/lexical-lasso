@@ -8,7 +8,6 @@ Lexical Lasso is a captivating Hangman game implementation where players rope in
 
 ## Features
 
-- **Cowboy-Themed Gameplay:** Immerse yourself in the Wild West atmosphere with cowboy hats, lassos, and desert landscapes.
 - **Musical Timer:** Guess your letters to the rhythm of country-western tunes, adding an extra layer of excitement to the game.
 - **Wordplay Fun:** Enjoy moements of entertainment as you wrangle words and sharpen your guessing skills.
 
