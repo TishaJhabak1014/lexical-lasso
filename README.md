@@ -8,7 +8,7 @@ Lexical Lasso is a captivating Hangman game implementation where players rope in
 
 ## Features
 
-- **Musical Timer:** Guess your letters to the rhythm of country-western tunes, adding an extra layer of excitement to the game.
+- **Musical Timer:** Guess your letters to the rhythm of country-western tunes, adding an extra layer of excitement to the game. [coming soon..]
 - **Wordplay Fun:** Enjoy moements of entertainment as you wrangle words and sharpen your guessing skills.
 
 ## Getting Started
