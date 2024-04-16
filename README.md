@@ -1,4 +1,4 @@
-# Lexical Lasso
+# Lexical Lasso 
 
 Welcome to Lexical Lasso - a muscial twist on the classic Hangman game!
 
@@ -15,9 +15,9 @@ Lexical Lasso is a captivating Hangman game implementation where players rope in
 
 To get started with Lexical Lasso, simply clone the repository to your local machine and open the index.html file in your web browser.
 
-`git clone https://github.com/your-username/lexical-lasso.git`
+- `git clone https://github.com/your-username/lexical-lasso.git`
 
-`cd lexical-lasso`
+- `cd lexical-lasso`
 
 ## Contributing
 
