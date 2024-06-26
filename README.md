@@ -24,5 +24,6 @@ To get started with Lexical Lasso, simply clone the repository to your local mac
 Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## Acknowledgements
+
 - Background music by [Artist Name](link-to-music) (License details, if applicable).
 - Icon credits: [Icon Name](link-to-icon) (License details, if applicable).
