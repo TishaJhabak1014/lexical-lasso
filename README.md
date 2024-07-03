@@ -1,4 +1,4 @@
-# Lexical Lasso 🎈
+# Lexical Lasso
 
 Welcome to Lexical Lasso - a muscial twist on the classic Hangman game!
 
